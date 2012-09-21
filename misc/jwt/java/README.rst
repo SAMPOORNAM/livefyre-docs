@@ -7,6 +7,15 @@ tokens as described in:
 
 https://github.com/Livefyre/livefyre-docs/wiki/Livefyre-authentication-token
 
+========
+Download
+========
+
+Download and unpack https://github.com/Livefyre/livefyre-docs/zipball/master or *git clone https://github.com/Livefyre/livefyre-docs.git*, then:
+
+    $ cd livefyre-docs/misc/jwt/java
+
+
 =========================
 Build and run using Maven
 =========================
